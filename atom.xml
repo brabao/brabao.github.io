@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title><![CDATA[Brabao]]></title>
+  
+  <link href="/atom.xml" rel="self"/>
+  <link href="http://www.brabao.com.br/"/>
+  <updated>2015-04-13T02:29:31.000Z</updated>
+  <id>http://www.brabao.com.br/</id>
+  
+  <author>
+    <name><![CDATA[Danilo Ribeiro da Silveira]]></name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[Hello World]]></title>
+    <link href="http://www.brabao.com.br/hello-world/"/>
+    <id>http://www.brabao.com.br/hello-world/</id>
+    <published>2015-04-13T02:29:31.000Z</published>
+    <updated>2015-04-13T02:29:31.000Z</updated>
+    <content type="html"><![CDATA[<img src="/imagens/hello-world.png" title="[title Hello World [alt Hello World]]"><h2 id="Estudou?_Faça_um_post…">Estudou? Faça um post…</h2><p>Dizem que quando você estuda e escreve, aprende duas vezes…</p><p>Este blog foi criado para compartilhar informações sobre o que estou estudando atualmente, minhas experiências em projetos que já desenvolvi, e também praticar um pouco a escrita de textos já que passamos a maior parte do tempo no computador programando.</p><h2 id="Quem_Sou?">Quem Sou?</h2><figure class="highlight javascript"><figcaption><span>about.json</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">&#123;</span><br><span class="line">  Nome: <span class="string">"Danilo Ribeiro da Silveira"</span>, </span><br><span class="line">  Vulgo: <span class="string">"Brabao"</span>,</span><br><span class="line">  twitter: <span class="string">"@brabao"</span></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><p>Trabalho com desenvolvimento web à mais de 10 anos, comecei meus estudos com PHP, passei a programar em Asp.net e atualmente estou estudando bastante node.js, angular, mongodb etc</p><h2 id="Brabao?">Brabao?</h2><p>Hà alguns anos atrás trabalhando em um projeto com um time maior, sempre que eu fazia um módulo do sistema um amigo sempre comentava “esse cara é brabao…” e o time escutando isso logo começaram a me chamar de brabao. Passando um tempo fui criar uma conta no twitter e toda combinação que eu tentava com meu nome já existia… qual estava disponível?… e assim definitivamente surgiu o <a href="http://twitter.com/brabao" target="_blank" rel="external">@brabao</a> rs.</p><p>Até os próximos artigos!</p>]]></content>
+    <summary type="html">
+    <![CDATA[<img src="/imagens/hello-world.png" title="[title Hello World [alt Hello World]]"><h2 id="Estudou?_Faça_um_post…">Estudou? Faça um post…</h2]]>
+    </summary>
+    
+  </entry>
+  
+</feed>
