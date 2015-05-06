@@ -2,23 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://www.brabao.com.br/Karma-Test-Runner/</loc>
-    <lastmod>2015-04-25T19:45:44.000Z</lastmod>
+    <loc>http://www.brabao.com.br/Testes-e2e-com-Protractor/</loc>
+    <lastmod>2015-05-06T19:12:29.000Z</lastmod>
   </url>
   
   <url>
     <loc>http://www.brabao.com.br/Testando-JavaScript-com-Jasmine/</loc>
-    <lastmod>2015-04-24T19:27:14.000Z</lastmod>
+    <lastmod>2015-05-06T19:06:01.000Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.brabao.com.br/Karma-Test-Runner/</loc>
+    <lastmod>2015-05-06T19:05:47.000Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.brabao.com.br/AngularJS-Route-Resolve/</loc>
+    <lastmod>2015-05-06T19:05:34.000Z</lastmod>
   </url>
   
   <url>
     <loc>http://www.brabao.com.br/hello-world/</loc>
     <lastmod>2015-04-14T14:48:49.000Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.brabao.com.br/AngularJS-Route-Resolve/</loc>
-    <lastmod>2015-04-14T14:42:54.000Z</lastmod>
   </url>
   
 </urlset>
